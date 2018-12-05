@@ -8,7 +8,7 @@
   "author": "sejob",
   "license": "ISC",
   "publishConfig": {
-    "acess": "public"
+    "access": "public"
   },
   "repository": {
     "type": "git",
