@@ -1,7 +1,6 @@
 {
   "name": "@sejob/train_remainder",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "publishConfig": {
     "acess": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SejoB/train_remainder.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/SejoB/train_remainder/issues"
+  },
+  "homepage": "https://github.com/SejoB/train_remainder#readme",
+  "description": ""
 }
